@@ -1,0 +1,37 @@
+.left{
+	position: fixed;
+	width:  50%;
+	height: 100%;
+	top: 0;
+	left: 0px;	
+}
+
+.right{
+	position: fixed;
+	width:  50%;
+	height:  100%;
+	top:  0px;
+	right:  0px;
+}
+
+.dispenser-img{
+	position: absolute;
+    left: 50%;
+    bottom: -217px;
+    width: 1080px;
+    height: 1080px;
+    margin-left: -396px;
+    background: url(../img/skills-dispenser.png) no-repeat 0 0;
+    trans
+    
+}
+
+
+/*body.body-state1 .dispenser{
+	background: url(../img/skills-dispenser.png) no-repeat 0 0;*/
+
+
+}
+body.body-state2 .dispenser{
+	background: url(../img/web-design.png) no-repeat 0 0;
+}
